@@ -34,7 +34,7 @@
         <label>Java</label><br>
         
         <input type="checkbox" id="python" name="language" value="python"> 
-        <label>Python</label>
+        <label>Python</label><br><br>
         
         <label>Country:</label><br><br>
         <select id="Country" name="Country">
